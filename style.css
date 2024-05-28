@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.btn-checkout{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: yellow;
+}
+.btn-checkout:hover{
+    background-color: lightgreen;
+}
